@@ -1,0 +1,20 @@
+{
+  "name": "webcrawlerproject",
+  "version": "1.0.0",
+  "description": "A youtube HTTP REST video follow-along project that develops a site and web crawler (SEO web crawler, to be exact)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spirolli/webcrawlerproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Spirolli/webcrawlerproject#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
